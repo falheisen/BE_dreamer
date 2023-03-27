@@ -1,4 +1,4 @@
-# BE - Learning behaviors by latent imagination. 
+# BE - Learning behaviors by latent imagination
 
 Ce tavail correspond au compte rendu final du projet 3 de l'option informatique à l'École Centrale Lyon : Learning behaviors by latent imagination. 
 
@@ -22,16 +22,16 @@ Son but était de créer un BE à partir du paper « [DREAM TO CONTROL: LEARNING
 
 - La solution finale est est disponible dans le dossier « 02. Final solution ».
 - Il peut être directement téléchargé pour être le git donné aux élèves au cours.
-- La solution finale est d'utiliser un Google Collab, adapté du code crée par Aditya Bingi (voir acknowlegments) qui sera utilisé par les élèves.
+- La solution finale est d'utiliser un Google Collab, adapté du code crée par Aditya Bingi (voir les remerciements) qui sera utilisé par les élèves.
 - Le mode opératoire est décrit dans le README.md du dossier.
 
 ### Dévéloppement de la solution
 - Le dossier « 01. First approach » contient la première approach pour adapter l'environnement à partir d'un container Docker 
 - Il également comprehende la première version du mode opératoire dans le rapport .pdf.
 
-## Acknowledgements
+## Remerciements
 
-This work is made based in some open-source works:
+Ce travail a été construit à partir de las contenus open-source suivantes :
 
 - Danijar Hafner: [dreamer](https://github.com/danijar/dreamer) and [dreamerv2](https://github.com/danijar/dreamerv2)
 - Aditya Bingi: [Dreamer](https://github.com/adityabingi/Dreamer)

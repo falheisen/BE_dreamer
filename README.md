@@ -22,7 +22,7 @@ Son but était de créer un BE à partir du paper « [DREAM TO CONTROL: LEARNING
 
 - La solution finale est est disponible dans le dossier « 02. Final solution ».
 - Il peut être directement téléchargé pour être le git donné aux élèves au cours.
-- La solution finale est d'utiliser un Google Collab, adapté du code crée par Aditya Bingi (voir les remerciements) qui sera utilisé par les élèves.
+- La solution finale est qui les élèves utilisent un Jupyter Notebook, adapté du code crée par Aditya Bingi (voir les remerciements), sur Google Collab.
 - Le mode opératoire est décrit dans le README.md du dossier.
 
 ### Dévéloppement de la solution

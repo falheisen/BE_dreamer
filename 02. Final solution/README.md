@@ -12,10 +12,6 @@ The last commit is due before 11:59 pm on [DATE]. Subsequent commits will not be
 
 Make sure you know the basics of Reinforcement Learning.
 
-## Introduction : The Dreamer Agent
-
-
-
 ## Author 
 - Matheus MACHADO
 - Samuel MUNIZ
